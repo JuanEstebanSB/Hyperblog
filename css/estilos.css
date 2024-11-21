@@ -7,7 +7,7 @@ body
     margin: 0;
     padding: 0;
 }
-#Container
+#container
 {
     width: 70%;
     padding: 1em;
@@ -15,7 +15,7 @@ body
     border: 1px solid #ddd;
     margin: 0 auto;  
 }
-#Container h1   
+#container h1   
 {
     font-size: 20px;
 }
