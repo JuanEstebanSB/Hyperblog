@@ -8,7 +8,6 @@ body
     margin: 0;
     padding: 0;
 }
-
 #cabecera
 {
     background: #37488b;
@@ -31,7 +30,6 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-
 #container
 {
     width: 70%;
@@ -46,6 +44,18 @@ body
 }
 #post
 {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
 }
+=======
+    padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+>>>>>>> footer
