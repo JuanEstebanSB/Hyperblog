@@ -6,11 +6,8 @@ Juega tenis desde los 9 años, y fue campeon
 
 Tambien le gusta la formula uno y su piloto favorito es Verstappen
 
-<<<<<<< HEAD
 Master 2
-=======
 Experimento 2
->>>>>>> 348478f (Expt 2)
 
 Ahora se le sumo  Hector al repositorio
 Hector es fan de Hamilton y vive en manizales
